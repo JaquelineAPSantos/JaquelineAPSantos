@@ -1,8 +1,8 @@
 ## Olá, Eu sou Jaqueline Santos!
 <br>
 
-<li> 🔭 Atualmente sou estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com">Trybe</a></li>
-<li> 🔭 Cursando o terceiro período de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br">Estácio</a></li>
+<li> 🔭 Atualmente sou estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com" target="_blank">Trybe</a></li>
+<li> 🔭 Cursando o quarto período de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br" target="_blank">Estácio</a></li>
 <li> 🌱 Concluído o módulo de Front-End na Trybe</li>
 <li> 🌱 Estudando Back-End, aprendendo MySQL, ORMs, JWT e Sequelize</li> 
 <li> 😄 Pronouns: ela/dela | She/Her</li>
@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/jaquelineapsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/jaqueaps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://twitter.com/Jaquelineaps" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href = "mailto:jaque.aps@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href = "mailto:jaque.aps@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://contate.me/JaquelineSantos" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
  
