@@ -4,7 +4,7 @@
 <li> 🔭 Atualmente sou estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com" target="_blank">Trybe</a></li>
 <li> 🔭 Cursando o quarto período de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br" target="_blank">Estácio</a></li>
 <li> 🌱 Concluído o módulo de Front-End na Trybe</li>
-<li> 🌱 Estudando Back-End, conteúdos que aprendi e pratiquei: Docker, MySQL, Nodejs, Arquitetura de Software, Sequelize e autenticação com JWT, aprendendo POO e SOLID</li> 
+<li> 🌱 Estudando Back-End, conteúdos que aprendi e pratiquei: Docker, MySQL, Nodejs, Arquitetura de Software, Sequelize e autenticação com JWT, POO, SOLID e Polimorfismo, aprendendo MongoDb</li> 
 <li> 😄 Pronouns: ela/dela | She/Her</li>
 <li> 💬 Pergunte-me sobre: JavaScript, HTML, CSS, Node.JS </li>
 <li>- ⚡ Fun fact: Livros </li>
