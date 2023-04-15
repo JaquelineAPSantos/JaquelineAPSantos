@@ -1,10 +1,8 @@
 ## Olá, Eu sou Jaqueline Santos!
 <br>
 
-<li> 🔭 Atualmente sou estudante de Desenvolvimento Web Full Stack na <a href="https://betrybe.com" target="_blank">Trybe</a></li>
+<li> 🔭 Concluído o curso de Desenvolvimento Web Full Stack na <a href="https://betrybe.com" target="_blank">Trybe</a></li>
 <li> 🔭 Cursando o quarto período de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br" target="_blank">Estácio</a></li>
-<li> 🌱 Concluídos os módulos de Fundamentos, Front-End e Back-End na Trybe</li>
-<li> 🌱 Estudando Ciência da Computação, aprendendo: Python</li> 
 <li> 😄 Pronouns: ela/dela | She/Her</li>
 <li> 💬 Pergunte-me sobre: Inovações Tecnológicas </li>
 <li>- ⚡ Fun fact: Livros </li>
@@ -45,6 +43,7 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
