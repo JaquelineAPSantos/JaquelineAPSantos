@@ -2,7 +2,8 @@
 <br>
 
 <li> 🔭 Concluído o curso de Desenvolvimento Web Full Stack na <a href="https://betrybe.com" target="_blank">Trybe</a></li>
-<li> 🔭 Cursando o quarto período de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br" target="_blank">Estácio</a></li>
+<li> 👩🏾‍🎓 Graduada em Análise e Desenvolvimento de Sistemas pela <a href="https://estacio.br" target="_blank">Estácio</a></li>
+<li> 💻 Estou atuando como Analista de Dados Jr na empresa <a href="https://www.instagram.com/ojeitoelogroup/">Elogroup</a></li>
 <li> 😄 Pronouns: ela/dela | She/Her</li>
 <li> 💬 Pergunte-me sobre: Inovações Tecnológicas </li>
 <li>- ⚡ Fun fact: Livros </li>
